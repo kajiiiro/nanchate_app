@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "./build/",
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "alwaysStrict": true,
+        "strict": true,
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es2017"
+    },
+    "include": [
+        "./src/"
+    ]
+}

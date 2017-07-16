@@ -1,0 +1,31 @@
+{
+  "name": "nanchate_app",
+  "version": "1.0.0",
+  "description": "nanchate_app",
+  "main": "build/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^8.0.13",
+    "eslint": "^4.2.0",
+    "typescript": "^2.4.1"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "build": "tsc",
+    "debug": "node build/nanchate_app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajiiiro/nanchate_app.git"
+  },
+  "keywords": [
+    "node",
+    "typescript"
+  ],
+  "author": "kajiiiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kajiiiro/nanchate_app/issues"
+  },
+  "homepage": "https://github.com/kajiiiro/nanchate_app#readme"
+}
